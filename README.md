@@ -2,8 +2,8 @@
 
 I'm Sufi, but feel free to call me YOLO-GIT if you fancy. I'm an intermediate software developer who loves creating a variety of things, from web applications to mobile apps. There might even be an API in the cards for the future—I'm keeping my options open! While I'm not quite at the expert level just yet, who knows, I might get there someday.
 
-<p align="center"><img src="name_template.png"></p>
-## <p align="center"><em>YOLO-GIT Momento</em></p>
+## <p align="center"><img src="name_template.png"></p>
+<p align="center"><em>YOLO-GIT Momento</em></p>
 
 
 Here are some ideas to get you started:
