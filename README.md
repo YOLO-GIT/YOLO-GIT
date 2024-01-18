@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there pepol 👋
 
-<img src="name_template.png">
+My name is sufi but you can call me YOLO-GIT (If you want). I am an intermediate software developer that make a bunch of stuff from web to app and maybe an API in the future. But, I am not at expert level yet, so who knows. Maybe I can reached it. 
+
+## <center><img src="name_template.png"></center>
+<center><italic>YOLO-GIT Momento</italic></center>
 
 Here are some ideas to get you started:
 
