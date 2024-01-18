@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**YOLO-GIT/YOLO-GIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="name_template.png">
 
 Here are some ideas to get you started:
 
